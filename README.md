@@ -54,3 +54,7 @@ In the next phases of development, the system could be expanded to include:
 
 ### Conclusion
 This Speech Recognition System represents a foundational piece of Artificial Intelligence infrastructure. By combining the ease of Python with the power of cloud-based deep learning, it provides a reliable and efficient way to bridge the gap between human communication and machine understanding. As AI continues to evolve, speech recognition will play an even more critical role in how we interact with the digital world.
+
+## Output:
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a3f362b3-3cc9-4f7d-84b1-4561ea7646ac" />
